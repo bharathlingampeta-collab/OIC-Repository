@@ -1,0 +1,5 @@
+﻿DVM,InvoiceApproverLookup,,invoiceapproverlookup
+AmountLimit,Approver
+1000,Junior Manager
+5000,Senior Manager
+10000,Director
